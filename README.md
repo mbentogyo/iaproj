@@ -1,3 +1,5 @@
+Link to add to Google Colab: https://colab.research.google.com/github/mbentogyo/iaproj/blob/master/quiz-presentation-generator.ipynb
+
 # **Presentation Quiz Generator**
 This system is a Google Colab application that utilizes a 4-bit quantized 7-billion parameter local language model to generate multiple-choice questions from user-provided text. The output is programmatically formatted into a PowerPoint presentation file.
 
